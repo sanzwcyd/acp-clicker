@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# PyInstaller output (upload the .exe via GitHub Releases instead)
+build/
+dist/
+*.spec
+
+# OS / editor
+Thumbs.db
+.vscode/
+.idea/
